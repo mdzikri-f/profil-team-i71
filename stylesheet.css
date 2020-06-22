@@ -141,7 +141,7 @@ header {
   background-color: #2b546a;
   text-align: center;
   animation-name: example;
-  animation-duration: 30s;
+  animation-duration: 15s;
 }
   @keyframes example {
   0%   {background-color: #2b546a;}
